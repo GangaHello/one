@@ -9,7 +9,7 @@
     <h1 style="color: yellow; font-size: 40px;" align="center">kodari DEPLOYED jenins</h1>    
     <h1 style="color: purple; font-size: 40px;" align="center">kodari suresh DEPLOYED jenins</h1>
 
-  <h1 style="color: purple; font-size: 40px;" align="center">kodari sureshsoftware engineer DEPLOYED jenins</h1>
+  <h1 style="color: purple; font-size: 40px;" align="center">KODARI SURESH  software engineer DEPLOYED jenins</h1>
  <h1 style="color: purple; font-size: 40px;" align="center">kodari suresh  develper DEPLOYED jenins</h1>
      
 	
