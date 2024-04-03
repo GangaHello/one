@@ -8,6 +8,7 @@
        
     <h1 style="color: yellow; font-size: 40px;" align="center">ACCOUNT NO - 10101</h1>    
     <h1 style="color: purple; font-size: 40px;" align="center">BALANCE AMOUNT -1LAK</h1>
+<h1 style="color: purple; font-size: 40px;" align="center">BALANCE AMOUNT -1LAK</h1>
 
  <h1 style="color: purple; font-size: 40px;" align="center">kodari suresh  develper Salary has been credited jenins</h1>
  <h1 style="color: yellow; font-size: 40px;" align="center">kodari suresh  develper Salary has been credited  YELLOW jenins</h1>
